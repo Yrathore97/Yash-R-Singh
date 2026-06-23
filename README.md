@@ -25,7 +25,7 @@
 ## 🌐 Portfolio & Resume
 
 * 🌍 Portfolio: https://yashrathore.lovable.app
-* 📄 Resume: https://drive.google.com/file/d/1xsaXPHVv5R3LQuaF1rZ1WFGhXBiOSHtM/view
+* 📄 Resume: [https://drive.google.com/file/d/1xsaXPHVv5R3LQuaF1rZ1WFGhXBiOSHtM/view]
 * 📫 Email: [yrathore.97.dhn@gmail.com](mailto:yrathore.97.dhn@gmail.com)
 
 ---
