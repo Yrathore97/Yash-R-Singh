@@ -12,13 +12,13 @@
 
 ## 🚀 About Me
 
-* 💼 Business Analyst with strong data analytics skills — requirements gathering, stakeholder management, and dashboard-driven reporting
-* 🔭 Currently working on **SQL, Power BI, Tableau, Python (Pandas), and AI-powered analytics workflows**
-* 🌱 Learning **Project Management, Agile/Scrum leadership, and Consulting frameworks** to grow into PM/Consultant roles
-* 👯 Looking to collaborate on **Data Analytics, Business Intelligence, and Process Improvement projects**
-* 💬 Ask me about **SQL, Power BI, Tableau, Excel, Python, Requirements Gathering, Stakeholder Management**
+* 💼 Business Analyst with 3+ years of experience translating business needs into data-driven solutions
+* 🔭 Currently working on **requirements gathering, stakeholder management, and BI reporting** using SQL, Power BI, and Tableau
+* 🌱 Expanding into **AI-powered analytics automation** (Quadratic, N8N), with a long-term focus on **Project Management & Consulting**
+* 👯 Looking to collaborate on **Business Analysis, Data Analytics, and Process Improvement** projects
+* 💬 Ask me about **Requirements Gathering, Stakeholder Management, SQL, Power BI, Tableau, Process Improvement**
 * 🎯 Solved **500+ DSA problems** across Scaler Academy and LeetCode
-* ⚡ Passionate about turning data into business insight and driving strategic decision-making
+* ⚡ Track record: 95% client satisfaction · 30% faster project delivery · 20% operational efficiency gain
 
 ---
 
@@ -46,36 +46,40 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Competencies & Skills
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
-</p>
+### Hard Skills
+**Requirements Gathering • Business Process Modeling • Gap Analysis • User Acceptance Testing (UAT) • Stakeholder Management • Data Analysis • Competitive Analysis • Process Improvement • Data Storytelling**
 
-### Data Analysis & BI Tools
+### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
 </p>
 
-**Power BI • Tableau • Excel • SAS • Jupyter Notebook • Quadratic • N8N**
+**SQL • Excel • Power BI • Tableau • SAS • Python • Jupyter Notebook • Quadratic • N8N**
 
-### Business & Project Skills
-**Business Analysis • Requirements Gathering • Stakeholder Management • Agile/Scrum • Process Improvement • Strategic Planning • Competitive Analysis • Client Relationship Management**
+### Methodologies
+**Agile • Scrum • Waterfall • Software Development Life Cycle (SDLC)**
 
-### Databases & Modeling
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
+### Data Modeling
 **ER Modeling • Dimensional Modeling • Data Mart & Data Warehouse Design**
 
-### Tools & DevOps
+### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,js" />
 </p>
+
+---
+
+## 💼 Professional Experience
+
+**Business Analyst — Innovative Business Solutions** *(August 2023 – Present)*
+* Spearheaded client relationship management initiatives, achieving a **95% client satisfaction rate** through proactive stakeholder engagement
+* Led requirements-gathering workshops with cross-functional teams, reducing project delivery time by **30%**
+* Developed and presented Tableau dashboards to leadership, improving strategic planning
+* Designed and implemented a continuous process-evaluation framework, driving a **20% increase in operational efficiency**
+* Conducted market research and competitive analysis, delivering data-backed recommendations that informed business strategy
 
 ---
 
@@ -83,9 +87,9 @@
 
 ### 🚚 End-to-End Supply Chain Analytics using AI Tools
 **Quadratic (AI Spreadsheet) • N8N (AI Workflow Automation)**
-* Solved real-world supply chain issues using AI-powered spreadsheet analysis
+* Analyzed and resolved real-world supply chain issues using AI-powered spreadsheet analysis
 * Automated data migration and ingestion pipelines with N8N
-* Performed data validation and generated actionable business insights
+* Validated data and generated actionable business insights
 
 ### 🏏 Cricket (T20) Data Analytics Dashboard
 **Python • Pandas • Power BI**
@@ -116,17 +120,19 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Education & Certifications
 
+* 🎓 **Scaler Academy** — Software Development & Problem Solving
+* 🎓 **Vel Tech High Tech Engineering College** — B.Tech (2019)
 * 🏅 [Microsoft Certified: Power BI Data Analyst Associate](https://drive.google.com/file/d/1Vy7BgnbpJjJdL5ATMxHiTO6gzx8vP8Km/view?usp=sharing) — Microsoft *(Nov 2023)*
 * 🏅 [Microsoft Certified: Data Analyst Associate](https://drive.google.com/file/d/1_N9bTjAgq_sYewZ4am6m5Qe-TKLfnc_P/view?usp=sharing) — Microsoft *(Mar 2021)*
 * 🏅 [GenAI Powered Data Analytics Job Simulation](https://drive.google.com/file/d/1Jvk1zsdEtUM-kLH5ZinlkSgpw1Ct6ayP/view?usp=sharing) — Forage x Tata *(Jul 2026)*
 * 🏅 [Data Analytics](https://drive.google.com/file/d/17P9K10HIXkF6l1a18bnZ1lHE_JaNH91v/view?usp=sharing) — Skillsetmaster *(Mar 2026)*
-* 🎓 Scaler Academy — Software Development & Problem Solving
 * 💻 500+ DSA Problems Solved (Scaler Academy & LeetCode)
 
 ---
 
 ### ⭐ Fun Fact
 
-> I enjoy turning raw data and business problems into clear, actionable insights — and I'm on a path to lead projects and advise businesses at a strategic level.
+> I enjoy turning ambiguous business problems into clear, data-backed decisions — 
+> and I'm on a path to lead projects and advise businesses at a strategic level.
